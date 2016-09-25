@@ -1,5 +1,7 @@
-import lib from '../src';
-import {expect} from 'chai';
+'use strict';
+
+const lib = require('../src');
+const expect = require('chai').expect;
 
 describe('{{name}}', () => {
   it('should return true', () => {

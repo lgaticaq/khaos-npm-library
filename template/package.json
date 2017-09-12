@@ -29,7 +29,7 @@
   "homepage": "https://github.com/{{owner}}/{{name}}#readme",
   "dependencies": {},
   "devDependencies": {
-    "chai": "3.5.0",
+    "chai": "4.1.2",
     "codeclimate-test-reporter": "0.3.3",
     "coveralls": "2.13.1",
     "eslint": "3.6.0",
